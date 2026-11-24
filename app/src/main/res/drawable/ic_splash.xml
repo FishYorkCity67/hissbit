@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash-Icon: das Hissbit-Zeichen auf grüner Fläche, passend in die runde Maske -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.6"
+        android:scaleY="0.6"
+        android:translateX="24"
+        android:translateY="24">
+        <path
+            android:fillColor="#FF1D7357"
+            android:pathData="M30,0 H70 A30,30 0 0 1 100,30 V70 A30,30 0 0 1 70,100 H30 A30,30 0 0 1 0,70 V30 A30,30 0 0 1 30,0 Z" />
+        <path
+            android:pathData="M68,30 C60,20 30,22 32,38 C34,52 68,48 68,64 C68,80 38,80 30,70"
+            android:strokeWidth="13"
+            android:strokeColor="#FFFFFFFF"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+        <path
+            android:fillColor="#FF1D7357"
+            android:pathData="M63.5,28.5m-2.8,0a2.8,2.8 0,1 1,5.6 0a2.8,2.8 0,1 1,-5.6 0" />
+        <path
+            android:fillColor="#FFF2B640"
+            android:pathData="M76.3,38.5 H81.7 A1.8,1.8 0 0 1 83.5,40.3 V45.7 A1.8,1.8 0 0 1 81.7,47.5 H76.3 A1.8,1.8 0 0 1 74.5,45.7 V40.3 A1.8,1.8 0 0 1 76.3,38.5 Z" />
+    </group>
+</vector>

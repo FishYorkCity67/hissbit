@@ -1,0 +1,679 @@
+lesson	u01-l1
+exercise	u01-l1-e1	ChoiceExercise
+exercise	u01-l1-e2	ChoiceExercise
+exercise	u01-l1-e3	TrueFalseExercise
+exercise	u01-l1-e4	FillBlankExercise
+exercise	u01-l1-e5	ArrangeExercise
+exercise	u01-l1-e6	ChoiceExercise
+exercise	u01-l1-e7	TypeExercise
+exercise	u01-l1-e8	CodeExercise
+lesson	u01-l2
+exercise	u01-l2-e1	ChoiceExercise
+exercise	u01-l2-e2	ChoiceExercise
+exercise	u01-l2-e3	ChoiceExercise
+exercise	u01-l2-e4	TypeExercise
+exercise	u01-l2-e5	ChoiceExercise
+exercise	u01-l2-e6	MatchExercise
+exercise	u01-l2-e7	TrueFalseExercise
+exercise	u01-l2-e8	FillBlankExercise
+exercise	u01-l2-e9	CodeExercise
+lesson	u01-l3
+exercise	u01-l3-e1	ChoiceExercise
+exercise	u01-l3-e2	ChoiceExercise
+exercise	u01-l3-e3	TrueFalseExercise
+exercise	u01-l3-e4	ChoiceExercise
+exercise	u01-l3-e5	ChoiceExercise
+exercise	u01-l3-e6	ChoiceExercise
+exercise	u01-l3-e7	FillBlankExercise
+exercise	u01-l3-e8	CodeExercise
+lesson	u01-l4
+exercise	u01-l4-e1	ChoiceExercise
+exercise	u01-l4-e2	ChoiceExercise
+exercise	u01-l4-e3	ChoiceExercise
+exercise	u01-l4-e4	TypeExercise
+exercise	u01-l4-e5	FillBlankExercise
+exercise	u01-l4-e6	TrueFalseExercise
+exercise	u01-l4-e7	ArrangeExercise
+exercise	u01-l4-e8	CodeExercise
+lesson	u01-cp
+lesson	u02-l1
+exercise	u02-l1-e1	ChoiceExercise
+exercise	u02-l1-e2	ChoiceExercise
+exercise	u02-l1-e3	ChoiceExercise
+exercise	u02-l1-e4	TrueFalseExercise
+exercise	u02-l1-e5	FillBlankExercise
+exercise	u02-l1-e6	TypeExercise
+exercise	u02-l1-e7	ArrangeExercise
+exercise	u02-l1-e8	CodeExercise
+lesson	u02-l2
+exercise	u02-l2-e1	MatchExercise
+exercise	u02-l2-e2	ChoiceExercise
+exercise	u02-l2-e3	ChoiceExercise
+exercise	u02-l2-e4	ChoiceExercise
+exercise	u02-l2-e5	TrueFalseExercise
+exercise	u02-l2-e6	ChoiceExercise
+exercise	u02-l2-e7	TypeExercise
+exercise	u02-l2-e8	CodeExercise
+lesson	u02-l3
+exercise	u02-l3-e1	ChoiceExercise
+exercise	u02-l3-e2	ChoiceExercise
+exercise	u02-l3-e3	ChoiceExercise
+exercise	u02-l3-e4	ChoiceExercise
+exercise	u02-l3-e5	TypeExercise
+exercise	u02-l3-e6	FillBlankExercise
+exercise	u02-l3-e7	TrueFalseExercise
+exercise	u02-l3-e8	CodeExercise
+lesson	u02-l4
+exercise	u02-l4-e1	ChoiceExercise
+exercise	u02-l4-e2	ChoiceExercise
+exercise	u02-l4-e3	TrueFalseExercise
+exercise	u02-l4-e4	FillBlankExercise
+exercise	u02-l4-e5	ArrangeExercise
+exercise	u02-l4-e6	CodeExercise
+exercise	u02-l4-e7	CodeExercise
+lesson	u02-l5
+exercise	u02-l5-e1	ChoiceExercise
+exercise	u02-l5-e2	ChoiceExercise
+exercise	u02-l5-e3	ChoiceExercise
+exercise	u02-l5-e4	TypeExercise
+exercise	u02-l5-e5	TrueFalseExercise
+exercise	u02-l5-e6	FillBlankExercise
+exercise	u02-l5-e7	MatchExercise
+exercise	u02-l5-e8	CodeExercise
+lesson	u02-cp
+lesson	u03-l1
+exercise	u03-l1-e1	ChoiceExercise
+exercise	u03-l1-e2	ChoiceExercise
+exercise	u03-l1-e3	TypeExercise
+exercise	u03-l1-e4	ChoiceExercise
+exercise	u03-l1-e5	FillBlankExercise
+exercise	u03-l1-e6	TrueFalseExercise
+exercise	u03-l1-e7	ArrangeExercise
+exercise	u03-l1-e8	CodeExercise
+lesson	u03-l2
+exercise	u03-l2-e1	ChoiceExercise
+exercise	u03-l2-e2	ChoiceExercise
+exercise	u03-l2-e3	TypeExercise
+exercise	u03-l2-e4	ChoiceExercise
+exercise	u03-l2-e5	ChoiceExercise
+exercise	u03-l2-e6	ChoiceExercise
+exercise	u03-l2-e7	FillBlankExercise
+exercise	u03-l2-e8	CodeExercise
+lesson	u03-l3
+exercise	u03-l3-e1	ChoiceExercise
+exercise	u03-l3-e2	ChoiceExercise
+exercise	u03-l3-e3	TypeExercise
+exercise	u03-l3-e4	ChoiceExercise
+exercise	u03-l3-e5	MatchExercise
+exercise	u03-l3-e6	TrueFalseExercise
+exercise	u03-l3-e7	FillBlankExercise
+exercise	u03-l3-e8	CodeExercise
+lesson	u03-l4
+exercise	u03-l4-e1	ChoiceExercise
+exercise	u03-l4-e2	ChoiceExercise
+exercise	u03-l4-e3	TypeExercise
+exercise	u03-l4-e4	ChoiceExercise
+exercise	u03-l4-e5	TrueFalseExercise
+exercise	u03-l4-e6	FillBlankExercise
+exercise	u03-l4-e7	ArrangeExercise
+exercise	u03-l4-e8	CodeExercise
+lesson	u03-l5
+exercise	u03-l5-e1	ChoiceExercise
+exercise	u03-l5-e2	ChoiceExercise
+exercise	u03-l5-e3	TypeExercise
+exercise	u03-l5-e4	ChoiceExercise
+exercise	u03-l5-e5	TrueFalseExercise
+exercise	u03-l5-e6	FillBlankExercise
+exercise	u03-l5-e7	ChoiceExercise
+exercise	u03-l5-e8	CodeExercise
+lesson	u03-cp
+lesson	u04-l1
+exercise	u04-l1-e1	ChoiceExercise
+exercise	u04-l1-e2	ChoiceExercise
+exercise	u04-l1-e3	ChoiceExercise
+exercise	u04-l1-e4	TypeExercise
+exercise	u04-l1-e5	TrueFalseExercise
+exercise	u04-l1-e6	ChoiceExercise
+exercise	u04-l1-e7	MatchExercise
+exercise	u04-l1-e8	ChoiceExercise
+lesson	u04-l2
+exercise	u04-l2-e1	ChoiceExercise
+exercise	u04-l2-e2	ChoiceExercise
+exercise	u04-l2-e3	ChoiceExercise
+exercise	u04-l2-e4	FillBlankExercise
+exercise	u04-l2-e5	ArrangeExercise
+exercise	u04-l2-e6	TrueFalseExercise
+exercise	u04-l2-e7	TypeExercise
+exercise	u04-l2-e8	CodeExercise
+lesson	u04-l3
+exercise	u04-l3-e1	ChoiceExercise
+exercise	u04-l3-e2	ChoiceExercise
+exercise	u04-l3-e3	TrueFalseExercise
+exercise	u04-l3-e4	ChoiceExercise
+exercise	u04-l3-e5	TypeExercise
+exercise	u04-l3-e6	FillBlankExercise
+exercise	u04-l3-e7	ArrangeExercise
+exercise	u04-l3-e8	CodeExercise
+lesson	u04-l4
+exercise	u04-l4-e1	ChoiceExercise
+exercise	u04-l4-e2	ChoiceExercise
+exercise	u04-l4-e3	ChoiceExercise
+exercise	u04-l4-e4	TypeExercise
+exercise	u04-l4-e5	ChoiceExercise
+exercise	u04-l4-e6	TrueFalseExercise
+exercise	u04-l4-e7	FillBlankExercise
+exercise	u04-l4-e8	CodeExercise
+lesson	u04-l5
+exercise	u04-l5-e1	ChoiceExercise
+exercise	u04-l5-e2	ChoiceExercise
+exercise	u04-l5-e3	TrueFalseExercise
+exercise	u04-l5-e4	TypeExercise
+exercise	u04-l5-e5	ChoiceExercise
+exercise	u04-l5-e6	FillBlankExercise
+exercise	u04-l5-e7	ChoiceExercise
+exercise	u04-l5-e8	CodeExercise
+lesson	u04-cp
+lesson	u05-l1
+exercise	u05-l1-e1	ChoiceExercise
+exercise	u05-l1-e2	TypeExercise
+exercise	u05-l1-e3	TrueFalseExercise
+exercise	u05-l1-e4	ChoiceExercise
+exercise	u05-l1-e5	FillBlankExercise
+exercise	u05-l1-e6	ArrangeExercise
+exercise	u05-l1-e7	ChoiceExercise
+exercise	u05-l1-e8	CodeExercise
+lesson	u05-l2
+exercise	u05-l2-e1	ChoiceExercise
+exercise	u05-l2-e2	ChoiceExercise
+exercise	u05-l2-e3	TypeExercise
+exercise	u05-l2-e4	ChoiceExercise
+exercise	u05-l2-e5	TrueFalseExercise
+exercise	u05-l2-e6	FillBlankExercise
+exercise	u05-l2-e7	ChoiceExercise
+exercise	u05-l2-e8	CodeExercise
+lesson	u05-l3
+exercise	u05-l3-e1	ChoiceExercise
+exercise	u05-l3-e2	TypeExercise
+exercise	u05-l3-e3	ChoiceExercise
+exercise	u05-l3-e4	TrueFalseExercise
+exercise	u05-l3-e5	FillBlankExercise
+exercise	u05-l3-e6	ArrangeExercise
+exercise	u05-l3-e7	ChoiceExercise
+exercise	u05-l3-e8	CodeExercise
+lesson	u05-l4
+exercise	u05-l4-e1	ChoiceExercise
+exercise	u05-l4-e2	ChoiceExercise
+exercise	u05-l4-e3	MatchExercise
+exercise	u05-l4-e4	TrueFalseExercise
+exercise	u05-l4-e5	TypeExercise
+exercise	u05-l4-e6	FillBlankExercise
+exercise	u05-l4-e7	ChoiceExercise
+exercise	u05-l4-e8	CodeExercise
+lesson	u05-l5
+exercise	u05-l5-e1	ChoiceExercise
+exercise	u05-l5-e2	TypeExercise
+exercise	u05-l5-e3	ChoiceExercise
+exercise	u05-l5-e4	TrueFalseExercise
+exercise	u05-l5-e5	ChoiceExercise
+exercise	u05-l5-e6	ArrangeExercise
+exercise	u05-l5-e7	FillBlankExercise
+exercise	u05-l5-e8	CodeExercise
+lesson	u05-cp
+lesson	u06-l1
+exercise	u06-l1-e1	ChoiceExercise
+exercise	u06-l1-e2	ChoiceExercise
+exercise	u06-l1-e3	TypeExercise
+exercise	u06-l1-e4	ChoiceExercise
+exercise	u06-l1-e5	TrueFalseExercise
+exercise	u06-l1-e6	ChoiceExercise
+exercise	u06-l1-e7	FillBlankExercise
+exercise	u06-l1-e8	CodeExercise
+lesson	u06-l2
+exercise	u06-l2-e1	ChoiceExercise
+exercise	u06-l2-e2	ChoiceExercise
+exercise	u06-l2-e3	TypeExercise
+exercise	u06-l2-e4	ChoiceExercise
+exercise	u06-l2-e5	MatchExercise
+exercise	u06-l2-e6	TrueFalseExercise
+exercise	u06-l2-e7	FillBlankExercise
+exercise	u06-l2-e8	CodeExercise
+lesson	u06-l3
+exercise	u06-l3-e1	ChoiceExercise
+exercise	u06-l3-e2	ChoiceExercise
+exercise	u06-l3-e3	TypeExercise
+exercise	u06-l3-e4	ChoiceExercise
+exercise	u06-l3-e5	ChoiceExercise
+exercise	u06-l3-e6	TrueFalseExercise
+exercise	u06-l3-e7	FillBlankExercise
+exercise	u06-l3-e8	CodeExercise
+lesson	u06-l4
+exercise	u06-l4-e1	ChoiceExercise
+exercise	u06-l4-e2	TypeExercise
+exercise	u06-l4-e3	ChoiceExercise
+exercise	u06-l4-e4	TrueFalseExercise
+exercise	u06-l4-e5	ArrangeExercise
+exercise	u06-l4-e6	FillBlankExercise
+exercise	u06-l4-e7	ChoiceExercise
+exercise	u06-l4-e8	CodeExercise
+lesson	u06-l5
+exercise	u06-l5-e1	ChoiceExercise
+exercise	u06-l5-e2	ChoiceExercise
+exercise	u06-l5-e3	TypeExercise
+exercise	u06-l5-e4	TrueFalseExercise
+exercise	u06-l5-e5	ChoiceExercise
+exercise	u06-l5-e6	ChoiceExercise
+exercise	u06-l5-e7	FillBlankExercise
+exercise	u06-l5-e8	CodeExercise
+lesson	u06-cp
+lesson	u07-l1
+exercise	u07-l1-e1	ChoiceExercise
+exercise	u07-l1-e2	ChoiceExercise
+exercise	u07-l1-e3	TypeExercise
+exercise	u07-l1-e4	TrueFalseExercise
+exercise	u07-l1-e5	ChoiceExercise
+exercise	u07-l1-e6	MatchExercise
+exercise	u07-l1-e7	FillBlankExercise
+exercise	u07-l1-e8	CodeExercise
+lesson	u07-l2
+exercise	u07-l2-e1	ChoiceExercise
+exercise	u07-l2-e2	ChoiceExercise
+exercise	u07-l2-e3	TypeExercise
+exercise	u07-l2-e4	ChoiceExercise
+exercise	u07-l2-e5	TrueFalseExercise
+exercise	u07-l2-e6	FillBlankExercise
+exercise	u07-l2-e7	ChoiceExercise
+exercise	u07-l2-e8	CodeExercise
+lesson	u07-l3
+exercise	u07-l3-e1	ChoiceExercise
+exercise	u07-l3-e2	ChoiceExercise
+exercise	u07-l3-e3	TypeExercise
+exercise	u07-l3-e4	MatchExercise
+exercise	u07-l3-e5	TrueFalseExercise
+exercise	u07-l3-e6	FillBlankExercise
+exercise	u07-l3-e7	ChoiceExercise
+exercise	u07-l3-e8	CodeExercise
+lesson	u07-l4
+exercise	u07-l4-e1	ChoiceExercise
+exercise	u07-l4-e2	ChoiceExercise
+exercise	u07-l4-e3	TypeExercise
+exercise	u07-l4-e4	ChoiceExercise
+exercise	u07-l4-e5	TrueFalseExercise
+exercise	u07-l4-e6	MatchExercise
+exercise	u07-l4-e7	FillBlankExercise
+exercise	u07-l4-e8	CodeExercise
+lesson	u07-l5
+exercise	u07-l5-e1	ChoiceExercise
+exercise	u07-l5-e2	ChoiceExercise
+exercise	u07-l5-e3	TypeExercise
+exercise	u07-l5-e4	TrueFalseExercise
+exercise	u07-l5-e5	ChoiceExercise
+exercise	u07-l5-e6	FillBlankExercise
+exercise	u07-l5-e7	ChoiceExercise
+exercise	u07-l5-e8	CodeExercise
+lesson	u07-cp
+lesson	u08-l1
+exercise	u08-l1-e1	ChoiceExercise
+exercise	u08-l1-e2	ChoiceExercise
+exercise	u08-l1-e3	ChoiceExercise
+exercise	u08-l1-e4	TypeExercise
+exercise	u08-l1-e5	TrueFalseExercise
+exercise	u08-l1-e6	FillBlankExercise
+exercise	u08-l1-e7	ArrangeExercise
+exercise	u08-l1-e8	CodeExercise
+lesson	u08-l2
+exercise	u08-l2-e1	ChoiceExercise
+exercise	u08-l2-e2	ChoiceExercise
+exercise	u08-l2-e3	ChoiceExercise
+exercise	u08-l2-e4	TypeExercise
+exercise	u08-l2-e5	ChoiceExercise
+exercise	u08-l2-e6	TrueFalseExercise
+exercise	u08-l2-e7	FillBlankExercise
+exercise	u08-l2-e8	CodeExercise
+lesson	u08-l3
+exercise	u08-l3-e1	ChoiceExercise
+exercise	u08-l3-e2	ChoiceExercise
+exercise	u08-l3-e3	TypeExercise
+exercise	u08-l3-e4	ChoiceExercise
+exercise	u08-l3-e5	TrueFalseExercise
+exercise	u08-l3-e6	FillBlankExercise
+exercise	u08-l3-e7	ChoiceExercise
+exercise	u08-l3-e8	CodeExercise
+lesson	u08-l4
+exercise	u08-l4-e1	ChoiceExercise
+exercise	u08-l4-e2	ChoiceExercise
+exercise	u08-l4-e3	ChoiceExercise
+exercise	u08-l4-e4	TypeExercise
+exercise	u08-l4-e5	TrueFalseExercise
+exercise	u08-l4-e6	ChoiceExercise
+exercise	u08-l4-e7	FillBlankExercise
+exercise	u08-l4-e8	CodeExercise
+lesson	u08-l5
+exercise	u08-l5-e1	ChoiceExercise
+exercise	u08-l5-e2	ChoiceExercise
+exercise	u08-l5-e3	TypeExercise
+exercise	u08-l5-e4	ChoiceExercise
+exercise	u08-l5-e5	ChoiceExercise
+exercise	u08-l5-e6	TrueFalseExercise
+exercise	u08-l5-e7	FillBlankExercise
+exercise	u08-l5-e8	CodeExercise
+lesson	u08-l6
+exercise	u08-l6-e1	ChoiceExercise
+exercise	u08-l6-e2	ChoiceExercise
+exercise	u08-l6-e3	TypeExercise
+exercise	u08-l6-e4	TrueFalseExercise
+exercise	u08-l6-e5	ChoiceExercise
+exercise	u08-l6-e6	FillBlankExercise
+exercise	u08-l6-e7	ArrangeExercise
+exercise	u08-l6-e8	CodeExercise
+lesson	u08-cp
+lesson	u09-l1
+exercise	u09-l1-e1	MatchExercise
+exercise	u09-l1-e2	ChoiceExercise
+exercise	u09-l1-e3	TrueFalseExercise
+exercise	u09-l1-e4	ChoiceExercise
+exercise	u09-l1-e5	ChoiceExercise
+exercise	u09-l1-e6	ChoiceExercise
+exercise	u09-l1-e7	TrueFalseExercise
+exercise	u09-l1-e8	CodeExercise
+lesson	u09-l2
+exercise	u09-l2-e1	ChoiceExercise
+exercise	u09-l2-e2	ChoiceExercise
+exercise	u09-l2-e3	TypeExercise
+exercise	u09-l2-e4	ChoiceExercise
+exercise	u09-l2-e5	TrueFalseExercise
+exercise	u09-l2-e6	FillBlankExercise
+exercise	u09-l2-e7	ChoiceExercise
+exercise	u09-l2-e8	CodeExercise
+lesson	u09-l3
+exercise	u09-l3-e1	ChoiceExercise
+exercise	u09-l3-e2	ChoiceExercise
+exercise	u09-l3-e3	TrueFalseExercise
+exercise	u09-l3-e4	ChoiceExercise
+exercise	u09-l3-e5	TypeExercise
+exercise	u09-l3-e6	FillBlankExercise
+exercise	u09-l3-e7	ArrangeExercise
+exercise	u09-l3-e8	CodeExercise
+lesson	u09-l4
+exercise	u09-l4-e1	ChoiceExercise
+exercise	u09-l4-e2	ChoiceExercise
+exercise	u09-l4-e3	TrueFalseExercise
+exercise	u09-l4-e4	FillBlankExercise
+exercise	u09-l4-e5	ChoiceExercise
+exercise	u09-l4-e6	TypeExercise
+exercise	u09-l4-e7	ChoiceExercise
+exercise	u09-l4-e8	CodeExercise
+lesson	u09-cp
+lesson	u10-l1
+exercise	u10-l1-e1	ChoiceExercise
+exercise	u10-l1-e2	ChoiceExercise
+exercise	u10-l1-e3	TypeExercise
+exercise	u10-l1-e4	ChoiceExercise
+exercise	u10-l1-e5	TrueFalseExercise
+exercise	u10-l1-e6	FillBlankExercise
+exercise	u10-l1-e7	ChoiceExercise
+exercise	u10-l1-e8	CodeExercise
+lesson	u10-l2
+exercise	u10-l2-e1	ChoiceExercise
+exercise	u10-l2-e2	ChoiceExercise
+exercise	u10-l2-e3	TypeExercise
+exercise	u10-l2-e4	TrueFalseExercise
+exercise	u10-l2-e5	ChoiceExercise
+exercise	u10-l2-e6	FillBlankExercise
+exercise	u10-l2-e7	ChoiceExercise
+exercise	u10-l2-e8	CodeExercise
+lesson	u10-l3
+exercise	u10-l3-e1	ChoiceExercise
+exercise	u10-l3-e2	ChoiceExercise
+exercise	u10-l3-e3	ChoiceExercise
+exercise	u10-l3-e4	TypeExercise
+exercise	u10-l3-e5	TrueFalseExercise
+exercise	u10-l3-e6	FillBlankExercise
+exercise	u10-l3-e7	ChoiceExercise
+exercise	u10-l3-e8	CodeExercise
+lesson	u10-l4
+exercise	u10-l4-e1	ChoiceExercise
+exercise	u10-l4-e2	ChoiceExercise
+exercise	u10-l4-e3	TypeExercise
+exercise	u10-l4-e4	ChoiceExercise
+exercise	u10-l4-e5	TrueFalseExercise
+exercise	u10-l4-e6	FillBlankExercise
+exercise	u10-l4-e7	ChoiceExercise
+exercise	u10-l4-e8	CodeExercise
+lesson	u10-cp
+lesson	u11-l1
+exercise	u11-l1-e1	ChoiceExercise
+exercise	u11-l1-e2	ChoiceExercise
+exercise	u11-l1-e3	TrueFalseExercise
+exercise	u11-l1-e4	TypeExercise
+exercise	u11-l1-e5	FillBlankExercise
+exercise	u11-l1-e6	MatchExercise
+exercise	u11-l1-e7	ChoiceExercise
+exercise	u11-l1-e8	CodeExercise
+lesson	u11-l2
+exercise	u11-l2-e1	ChoiceExercise
+exercise	u11-l2-e2	TypeExercise
+exercise	u11-l2-e3	ChoiceExercise
+exercise	u11-l2-e4	TrueFalseExercise
+exercise	u11-l2-e5	ChoiceExercise
+exercise	u11-l2-e6	FillBlankExercise
+exercise	u11-l2-e7	ArrangeExercise
+exercise	u11-l2-e8	CodeExercise
+lesson	u11-l3
+exercise	u11-l3-e1	ChoiceExercise
+exercise	u11-l3-e2	ChoiceExercise
+exercise	u11-l3-e3	ChoiceExercise
+exercise	u11-l3-e4	TrueFalseExercise
+exercise	u11-l3-e5	TypeExercise
+exercise	u11-l3-e6	FillBlankExercise
+exercise	u11-l3-e7	ChoiceExercise
+exercise	u11-l3-e8	CodeExercise
+lesson	u11-l4
+exercise	u11-l4-e1	ChoiceExercise
+exercise	u11-l4-e2	ChoiceExercise
+exercise	u11-l4-e3	TypeExercise
+exercise	u11-l4-e4	MatchExercise
+exercise	u11-l4-e5	TrueFalseExercise
+exercise	u11-l4-e6	FillBlankExercise
+exercise	u11-l4-e7	ChoiceExercise
+exercise	u11-l4-e8	CodeExercise
+lesson	u11-l5
+exercise	u11-l5-e1	ChoiceExercise
+exercise	u11-l5-e2	ChoiceExercise
+exercise	u11-l5-e3	ChoiceExercise
+exercise	u11-l5-e4	TrueFalseExercise
+exercise	u11-l5-e5	TypeExercise
+exercise	u11-l5-e6	FillBlankExercise
+exercise	u11-l5-e7	ChoiceExercise
+exercise	u11-l5-e8	CodeExercise
+lesson	u11-l6
+exercise	u11-l6-e1	ChoiceExercise
+exercise	u11-l6-e2	ChoiceExercise
+exercise	u11-l6-e3	ChoiceExercise
+exercise	u11-l6-e4	TrueFalseExercise
+exercise	u11-l6-e5	TypeExercise
+exercise	u11-l6-e6	FillBlankExercise
+exercise	u11-l6-e7	ChoiceExercise
+exercise	u11-l6-e8	CodeExercise
+lesson	u11-cp
+lesson	u12-l1
+exercise	u12-l1-e1	ChoiceExercise
+exercise	u12-l1-e2	ChoiceExercise
+exercise	u12-l1-e3	TypeExercise
+exercise	u12-l1-e4	TrueFalseExercise
+exercise	u12-l1-e5	ChoiceExercise
+exercise	u12-l1-e6	FillBlankExercise
+exercise	u12-l1-e7	MatchExercise
+exercise	u12-l1-e8	CodeExercise
+lesson	u12-l2
+exercise	u12-l2-e1	ChoiceExercise
+exercise	u12-l2-e2	TrueFalseExercise
+exercise	u12-l2-e3	ChoiceExercise
+exercise	u12-l2-e4	TypeExercise
+exercise	u12-l2-e5	ChoiceExercise
+exercise	u12-l2-e6	FillBlankExercise
+exercise	u12-l2-e7	ChoiceExercise
+exercise	u12-l2-e8	CodeExercise
+lesson	u12-l3
+exercise	u12-l3-e1	ChoiceExercise
+exercise	u12-l3-e2	TypeExercise
+exercise	u12-l3-e3	ChoiceExercise
+exercise	u12-l3-e4	ChoiceExercise
+exercise	u12-l3-e5	TrueFalseExercise
+exercise	u12-l3-e6	FillBlankExercise
+exercise	u12-l3-e7	ChoiceExercise
+exercise	u12-l3-e8	CodeExercise
+lesson	u12-l4
+exercise	u12-l4-e1	ChoiceExercise
+exercise	u12-l4-e2	ChoiceExercise
+exercise	u12-l4-e3	TypeExercise
+exercise	u12-l4-e4	ChoiceExercise
+exercise	u12-l4-e5	TrueFalseExercise
+exercise	u12-l4-e6	FillBlankExercise
+exercise	u12-l4-e7	ChoiceExercise
+exercise	u12-l4-e8	CodeExercise
+lesson	u12-l5
+exercise	u12-l5-e1	ChoiceExercise
+exercise	u12-l5-e2	ChoiceExercise
+exercise	u12-l5-e3	TypeExercise
+exercise	u12-l5-e4	ChoiceExercise
+exercise	u12-l5-e5	TrueFalseExercise
+exercise	u12-l5-e6	FillBlankExercise
+exercise	u12-l5-e7	MatchExercise
+exercise	u12-l5-e8	CodeExercise
+lesson	u12-cp
+lesson	u13-l1
+exercise	u13-l1-e1	ChoiceExercise
+exercise	u13-l1-e2	TrueFalseExercise
+exercise	u13-l1-e3	ChoiceExercise
+exercise	u13-l1-e4	ChoiceExercise
+exercise	u13-l1-e5	TypeExercise
+exercise	u13-l1-e6	FillBlankExercise
+exercise	u13-l1-e7	MatchExercise
+exercise	u13-l1-e8	CodeExercise
+lesson	u13-l2
+exercise	u13-l2-e1	ChoiceExercise
+exercise	u13-l2-e2	ChoiceExercise
+exercise	u13-l2-e3	TrueFalseExercise
+exercise	u13-l2-e4	ChoiceExercise
+exercise	u13-l2-e5	TypeExercise
+exercise	u13-l2-e6	FillBlankExercise
+exercise	u13-l2-e7	ChoiceExercise
+exercise	u13-l2-e8	CodeExercise
+lesson	u13-l3
+exercise	u13-l3-e1	ChoiceExercise
+exercise	u13-l3-e2	ChoiceExercise
+exercise	u13-l3-e3	TrueFalseExercise
+exercise	u13-l3-e4	ChoiceExercise
+exercise	u13-l3-e5	TypeExercise
+exercise	u13-l3-e6	FillBlankExercise
+exercise	u13-l3-e7	ChoiceExercise
+exercise	u13-l3-e8	CodeExercise
+lesson	u13-cp
+lesson	u14-l1
+exercise	u14-l1-e1	ChoiceExercise
+exercise	u14-l1-e2	ChoiceExercise
+exercise	u14-l1-e3	TypeExercise
+exercise	u14-l1-e4	TrueFalseExercise
+exercise	u14-l1-e5	ChoiceExercise
+exercise	u14-l1-e6	FillBlankExercise
+exercise	u14-l1-e7	ChoiceExercise
+exercise	u14-l1-e8	CodeExercise
+lesson	u14-l2
+exercise	u14-l2-e1	ChoiceExercise
+exercise	u14-l2-e2	ChoiceExercise
+exercise	u14-l2-e3	TrueFalseExercise
+exercise	u14-l2-e4	MatchExercise
+exercise	u14-l2-e5	TypeExercise
+exercise	u14-l2-e6	FillBlankExercise
+exercise	u14-l2-e7	ChoiceExercise
+exercise	u14-l2-e8	CodeExercise
+lesson	u14-l3
+exercise	u14-l3-e1	ChoiceExercise
+exercise	u14-l3-e2	ChoiceExercise
+exercise	u14-l3-e3	ChoiceExercise
+exercise	u14-l3-e4	TrueFalseExercise
+exercise	u14-l3-e5	TypeExercise
+exercise	u14-l3-e6	FillBlankExercise
+exercise	u14-l3-e7	ChoiceExercise
+exercise	u14-l3-e8	CodeExercise
+lesson	u14-l4
+exercise	u14-l4-e1	ChoiceExercise
+exercise	u14-l4-e2	ChoiceExercise
+exercise	u14-l4-e3	ChoiceExercise
+exercise	u14-l4-e4	TrueFalseExercise
+exercise	u14-l4-e5	TypeExercise
+exercise	u14-l4-e6	FillBlankExercise
+exercise	u14-l4-e7	ChoiceExercise
+exercise	u14-l4-e8	CodeExercise
+lesson	u14-l5
+exercise	u14-l5-e1	ChoiceExercise
+exercise	u14-l5-e2	ChoiceExercise
+exercise	u14-l5-e3	TypeExercise
+exercise	u14-l5-e4	ChoiceExercise
+exercise	u14-l5-e5	TrueFalseExercise
+exercise	u14-l5-e6	FillBlankExercise
+exercise	u14-l5-e7	ChoiceExercise
+exercise	u14-l5-e8	CodeExercise
+lesson	u14-cp
+lesson	u15-l1
+exercise	u15-l1-e1	ChoiceExercise
+exercise	u15-l1-e2	ChoiceExercise
+exercise	u15-l1-e3	TrueFalseExercise
+exercise	u15-l1-e4	ChoiceExercise
+exercise	u15-l1-e5	MatchExercise
+exercise	u15-l1-e6	ChoiceExercise
+exercise	u15-l1-e7	TrueFalseExercise
+exercise	u15-l1-e8	FillBlankExercise
+lesson	u15-l2
+exercise	u15-l2-e1	ChoiceExercise
+exercise	u15-l2-e2	MatchExercise
+exercise	u15-l2-e3	TrueFalseExercise
+exercise	u15-l2-e4	ChoiceExercise
+exercise	u15-l2-e5	ChoiceExercise
+exercise	u15-l2-e6	TrueFalseExercise
+exercise	u15-l2-e7	FillBlankExercise
+exercise	u15-l2-e8	ChoiceExercise
+lesson	u15-l3
+exercise	u15-l3-e1	ChoiceExercise
+exercise	u15-l3-e2	ChoiceExercise
+exercise	u15-l3-e3	TrueFalseExercise
+exercise	u15-l3-e4	ChoiceExercise
+exercise	u15-l3-e5	MatchExercise
+exercise	u15-l3-e6	ChoiceExercise
+exercise	u15-l3-e7	TrueFalseExercise
+exercise	u15-l3-e8	CodeExercise
+lesson	u15-l4
+exercise	u15-l4-e1	ChoiceExercise
+exercise	u15-l4-e2	TrueFalseExercise
+exercise	u15-l4-e3	ChoiceExercise
+exercise	u15-l4-e4	ChoiceExercise
+exercise	u15-l4-e5	ChoiceExercise
+exercise	u15-l4-e6	MatchExercise
+exercise	u15-l4-e7	FillBlankExercise
+exercise	u15-l4-e8	CodeExercise
+lesson	u15-cp
+lesson	u16-l1
+exercise	u16-l1-e1	CodeExercise
+exercise	u16-l1-e2	CodeExercise
+exercise	u16-l1-e3	CodeExercise
+exercise	u16-l1-e4	ChoiceExercise
+exercise	u16-l1-e5	TrueFalseExercise
+lesson	u16-l2
+exercise	u16-l2-e1	CodeExercise
+exercise	u16-l2-e2	CodeExercise
+exercise	u16-l2-e3	CodeExercise
+exercise	u16-l2-e4	TrueFalseExercise
+exercise	u16-l2-e5	ChoiceExercise
+lesson	u16-l3
+exercise	u16-l3-e1	CodeExercise
+exercise	u16-l3-e2	CodeExercise
+exercise	u16-l3-e3	CodeExercise
+exercise	u16-l3-e4	ChoiceExercise
+exercise	u16-l3-e5	TrueFalseExercise
+lesson	u16-l4
+exercise	u16-l4-e1	CodeExercise
+exercise	u16-l4-e2	CodeExercise
+exercise	u16-l4-e3	CodeExercise
+exercise	u16-l4-e4	ChoiceExercise
+exercise	u16-l4-e5	TrueFalseExercise
+lesson	u16-cp

@@ -1,0 +1,505 @@
+lesson	js-u01-l1
+exercise	js-u01-l1-e1	ChoiceExercise
+exercise	js-u01-l1-e2	ChoiceExercise
+exercise	js-u01-l1-e3	TrueFalseExercise
+exercise	js-u01-l1-e4	FillBlankExercise
+exercise	js-u01-l1-e5	ArrangeExercise
+exercise	js-u01-l1-e6	ChoiceExercise
+exercise	js-u01-l1-e7	TypeExercise
+exercise	js-u01-l1-e8	CodeExercise
+lesson	js-u01-l2
+exercise	js-u01-l2-e1	ChoiceExercise
+exercise	js-u01-l2-e2	ChoiceExercise
+exercise	js-u01-l2-e3	ChoiceExercise
+exercise	js-u01-l2-e4	TypeExercise
+exercise	js-u01-l2-e5	ChoiceExercise
+exercise	js-u01-l2-e6	MatchExercise
+exercise	js-u01-l2-e7	TrueFalseExercise
+exercise	js-u01-l2-e8	FillBlankExercise
+exercise	js-u01-l2-e9	CodeExercise
+lesson	js-u01-l3
+exercise	js-u01-l3-e1	ChoiceExercise
+exercise	js-u01-l3-e2	ChoiceExercise
+exercise	js-u01-l3-e3	TrueFalseExercise
+exercise	js-u01-l3-e4	ChoiceExercise
+exercise	js-u01-l3-e5	ChoiceExercise
+exercise	js-u01-l3-e6	ChoiceExercise
+exercise	js-u01-l3-e7	FillBlankExercise
+exercise	js-u01-l3-e8	CodeExercise
+lesson	js-u01-l4
+exercise	js-u01-l4-e1	ChoiceExercise
+exercise	js-u01-l4-e2	ChoiceExercise
+exercise	js-u01-l4-e3	ChoiceExercise
+exercise	js-u01-l4-e4	ChoiceExercise
+exercise	js-u01-l4-e5	TypeExercise
+exercise	js-u01-l4-e6	FillBlankExercise
+exercise	js-u01-l4-e7	TrueFalseExercise
+exercise	js-u01-l4-e8	ArrangeExercise
+exercise	js-u01-l4-e9	CodeExercise
+lesson	js-u01-cp
+lesson	js-u02-l1
+exercise	js-u02-l1-e1	ChoiceExercise
+exercise	js-u02-l1-e2	ChoiceExercise
+exercise	js-u02-l1-e3	TrueFalseExercise
+exercise	js-u02-l1-e4	TypeExercise
+exercise	js-u02-l1-e5	FillBlankExercise
+exercise	js-u02-l1-e6	ChoiceExercise
+exercise	js-u02-l1-e7	ArrangeExercise
+exercise	js-u02-l1-e8	CodeExercise
+lesson	js-u02-l2
+exercise	js-u02-l2-e1	ChoiceExercise
+exercise	js-u02-l2-e2	TrueFalseExercise
+exercise	js-u02-l2-e3	ChoiceExercise
+exercise	js-u02-l2-e4	ChoiceExercise
+exercise	js-u02-l2-e5	ChoiceExercise
+exercise	js-u02-l2-e6	FillBlankExercise
+exercise	js-u02-l2-e7	TrueFalseExercise
+exercise	js-u02-l2-e8	CodeExercise
+lesson	js-u02-l3
+exercise	js-u02-l3-e1	ChoiceExercise
+exercise	js-u02-l3-e2	ChoiceExercise
+exercise	js-u02-l3-e3	MatchExercise
+exercise	js-u02-l3-e4	TypeExercise
+exercise	js-u02-l3-e5	ChoiceExercise
+exercise	js-u02-l3-e6	TrueFalseExercise
+exercise	js-u02-l3-e7	FillBlankExercise
+exercise	js-u02-l3-e8	CodeExercise
+lesson	js-u02-l4
+exercise	js-u02-l4-e1	ChoiceExercise
+exercise	js-u02-l4-e2	ChoiceExercise
+exercise	js-u02-l4-e3	ChoiceExercise
+exercise	js-u02-l4-e4	TypeExercise
+exercise	js-u02-l4-e5	ChoiceExercise
+exercise	js-u02-l4-e6	TrueFalseExercise
+exercise	js-u02-l4-e7	FillBlankExercise
+exercise	js-u02-l4-e8	ChoiceExercise
+exercise	js-u02-l4-e9	CodeExercise
+lesson	js-u02-l5
+exercise	js-u02-l5-e1	ChoiceExercise
+exercise	js-u02-l5-e2	ChoiceExercise
+exercise	js-u02-l5-e3	ChoiceExercise
+exercise	js-u02-l5-e4	TrueFalseExercise
+exercise	js-u02-l5-e5	FillBlankExercise
+exercise	js-u02-l5-e6	TypeExercise
+exercise	js-u02-l5-e7	ArrangeExercise
+exercise	js-u02-l5-e8	CodeExercise
+lesson	js-u02-cp
+lesson	js-u03-l1
+exercise	js-u03-l1-e1	ChoiceExercise
+exercise	js-u03-l1-e2	ChoiceExercise
+exercise	js-u03-l1-e3	FillBlankExercise
+exercise	js-u03-l1-e4	TrueFalseExercise
+exercise	js-u03-l1-e5	ArrangeExercise
+exercise	js-u03-l1-e6	CodeExercise
+exercise	js-u03-l1-e7	CodeExercise
+lesson	js-u03-l2
+exercise	js-u03-l2-e1	ChoiceExercise
+exercise	js-u03-l2-e2	ChoiceExercise
+exercise	js-u03-l2-e3	TypeExercise
+exercise	js-u03-l2-e4	ChoiceExercise
+exercise	js-u03-l2-e5	ChoiceExercise
+exercise	js-u03-l2-e6	FillBlankExercise
+exercise	js-u03-l2-e7	TrueFalseExercise
+exercise	js-u03-l2-e8	CodeExercise
+lesson	js-u03-l3
+exercise	js-u03-l3-e1	ChoiceExercise
+exercise	js-u03-l3-e2	ChoiceExercise
+exercise	js-u03-l3-e3	TypeExercise
+exercise	js-u03-l3-e4	ChoiceExercise
+exercise	js-u03-l3-e5	MatchExercise
+exercise	js-u03-l3-e6	FillBlankExercise
+exercise	js-u03-l3-e7	ChoiceExercise
+exercise	js-u03-l3-e8	CodeExercise
+lesson	js-u03-l4
+exercise	js-u03-l4-e1	ChoiceExercise
+exercise	js-u03-l4-e2	ChoiceExercise
+exercise	js-u03-l4-e3	TypeExercise
+exercise	js-u03-l4-e4	ChoiceExercise
+exercise	js-u03-l4-e5	ChoiceExercise
+exercise	js-u03-l4-e6	FillBlankExercise
+exercise	js-u03-l4-e7	TrueFalseExercise
+exercise	js-u03-l4-e8	CodeExercise
+lesson	js-u03-cp
+lesson	js-u04-l1
+exercise	js-u04-l1-e1	ChoiceExercise
+exercise	js-u04-l1-e2	ChoiceExercise
+exercise	js-u04-l1-e3	ChoiceExercise
+exercise	js-u04-l1-e4	TypeExercise
+exercise	js-u04-l1-e5	TrueFalseExercise
+exercise	js-u04-l1-e6	MatchExercise
+exercise	js-u04-l1-e7	FillBlankExercise
+exercise	js-u04-l1-e8	CodeExercise
+lesson	js-u04-l2
+exercise	js-u04-l2-e1	ChoiceExercise
+exercise	js-u04-l2-e2	ChoiceExercise
+exercise	js-u04-l2-e3	ChoiceExercise
+exercise	js-u04-l2-e4	TypeExercise
+exercise	js-u04-l2-e5	ArrangeExercise
+exercise	js-u04-l2-e6	FillBlankExercise
+exercise	js-u04-l2-e7	CodeExercise
+lesson	js-u04-l3
+exercise	js-u04-l3-e1	ChoiceExercise
+exercise	js-u04-l3-e2	ChoiceExercise
+exercise	js-u04-l3-e3	ChoiceExercise
+exercise	js-u04-l3-e4	ChoiceExercise
+exercise	js-u04-l3-e5	TrueFalseExercise
+exercise	js-u04-l3-e6	TypeExercise
+exercise	js-u04-l3-e7	FillBlankExercise
+exercise	js-u04-l3-e8	ChoiceExercise
+exercise	js-u04-l3-e9	CodeExercise
+lesson	js-u04-l4
+exercise	js-u04-l4-e1	ChoiceExercise
+exercise	js-u04-l4-e2	TypeExercise
+exercise	js-u04-l4-e3	ChoiceExercise
+exercise	js-u04-l4-e4	ChoiceExercise
+exercise	js-u04-l4-e5	ChoiceExercise
+exercise	js-u04-l4-e6	FillBlankExercise
+exercise	js-u04-l4-e7	TrueFalseExercise
+exercise	js-u04-l4-e8	CodeExercise
+lesson	js-u04-cp
+lesson	js-u05-l1
+exercise	js-u05-l1-e1	ChoiceExercise
+exercise	js-u05-l1-e2	ChoiceExercise
+exercise	js-u05-l1-e3	TypeExercise
+exercise	js-u05-l1-e4	ChoiceExercise
+exercise	js-u05-l1-e5	FillBlankExercise
+exercise	js-u05-l1-e6	TrueFalseExercise
+exercise	js-u05-l1-e7	CodeExercise
+lesson	js-u05-l2
+exercise	js-u05-l2-e1	ChoiceExercise
+exercise	js-u05-l2-e2	ChoiceExercise
+exercise	js-u05-l2-e3	TypeExercise
+exercise	js-u05-l2-e4	ChoiceExercise
+exercise	js-u05-l2-e5	FillBlankExercise
+exercise	js-u05-l2-e6	ArrangeExercise
+exercise	js-u05-l2-e7	TrueFalseExercise
+exercise	js-u05-l2-e8	CodeExercise
+lesson	js-u05-l3
+exercise	js-u05-l3-e1	ChoiceExercise
+exercise	js-u05-l3-e2	ChoiceExercise
+exercise	js-u05-l3-e3	ChoiceExercise
+exercise	js-u05-l3-e4	TypeExercise
+exercise	js-u05-l3-e5	FillBlankExercise
+exercise	js-u05-l3-e6	TrueFalseExercise
+exercise	js-u05-l3-e7	CodeExercise
+lesson	js-u05-l4
+exercise	js-u05-l4-e1	ChoiceExercise
+exercise	js-u05-l4-e2	TypeExercise
+exercise	js-u05-l4-e3	ChoiceExercise
+exercise	js-u05-l4-e4	ChoiceExercise
+exercise	js-u05-l4-e5	FillBlankExercise
+exercise	js-u05-l4-e6	CodeExercise
+exercise	js-u05-l4-e7	CodeExercise
+lesson	js-u05-l5
+exercise	js-u05-l5-e1	ChoiceExercise
+exercise	js-u05-l5-e2	ArrangeExercise
+exercise	js-u05-l5-e3	CodeExercise
+exercise	js-u05-l5-e4	ChoiceExercise
+lesson	js-u05-cp
+lesson	js-u06-l1
+exercise	js-u06-l1-e1	ChoiceExercise
+exercise	js-u06-l1-e2	ChoiceExercise
+exercise	js-u06-l1-e3	TypeExercise
+exercise	js-u06-l1-e4	ChoiceExercise
+exercise	js-u06-l1-e5	ChoiceExercise
+exercise	js-u06-l1-e6	TrueFalseExercise
+exercise	js-u06-l1-e7	FillBlankExercise
+exercise	js-u06-l1-e8	CodeExercise
+lesson	js-u06-l2
+exercise	js-u06-l2-e1	ChoiceExercise
+exercise	js-u06-l2-e2	ChoiceExercise
+exercise	js-u06-l2-e3	TypeExercise
+exercise	js-u06-l2-e4	MatchExercise
+exercise	js-u06-l2-e5	ChoiceExercise
+exercise	js-u06-l2-e6	FillBlankExercise
+exercise	js-u06-l2-e7	TrueFalseExercise
+exercise	js-u06-l2-e8	CodeExercise
+lesson	js-u06-l3
+exercise	js-u06-l3-e1	ChoiceExercise
+exercise	js-u06-l3-e2	TypeExercise
+exercise	js-u06-l3-e3	ChoiceExercise
+exercise	js-u06-l3-e4	ChoiceExercise
+exercise	js-u06-l3-e5	FillBlankExercise
+exercise	js-u06-l3-e6	TrueFalseExercise
+exercise	js-u06-l3-e7	CodeExercise
+exercise	js-u06-l3-e8	CodeExercise
+lesson	js-u06-l4
+exercise	js-u06-l4-e1	ChoiceExercise
+exercise	js-u06-l4-e2	ChoiceExercise
+exercise	js-u06-l4-e3	TypeExercise
+exercise	js-u06-l4-e4	ChoiceExercise
+exercise	js-u06-l4-e5	ChoiceExercise
+exercise	js-u06-l4-e6	FillBlankExercise
+exercise	js-u06-l4-e7	TrueFalseExercise
+exercise	js-u06-l4-e8	CodeExercise
+lesson	js-u06-cp
+lesson	js-u07-l1
+exercise	js-u07-l1-e1	ChoiceExercise
+exercise	js-u07-l1-e2	ChoiceExercise
+exercise	js-u07-l1-e3	ChoiceExercise
+exercise	js-u07-l1-e4	TypeExercise
+exercise	js-u07-l1-e5	FillBlankExercise
+exercise	js-u07-l1-e6	TrueFalseExercise
+exercise	js-u07-l1-e7	ChoiceExercise
+exercise	js-u07-l1-e8	CodeExercise
+lesson	js-u07-l2
+exercise	js-u07-l2-e1	ChoiceExercise
+exercise	js-u07-l2-e2	ChoiceExercise
+exercise	js-u07-l2-e3	TypeExercise
+exercise	js-u07-l2-e4	ChoiceExercise
+exercise	js-u07-l2-e5	FillBlankExercise
+exercise	js-u07-l2-e6	ChoiceExercise
+exercise	js-u07-l2-e7	CodeExercise
+exercise	js-u07-l2-e8	CodeExercise
+lesson	js-u07-l3
+exercise	js-u07-l3-e1	ChoiceExercise
+exercise	js-u07-l3-e2	ChoiceExercise
+exercise	js-u07-l3-e3	ChoiceExercise
+exercise	js-u07-l3-e4	TypeExercise
+exercise	js-u07-l3-e5	FillBlankExercise
+exercise	js-u07-l3-e6	ChoiceExercise
+exercise	js-u07-l3-e7	TrueFalseExercise
+exercise	js-u07-l3-e8	CodeExercise
+lesson	js-u07-l4
+exercise	js-u07-l4-e1	ChoiceExercise
+exercise	js-u07-l4-e2	ChoiceExercise
+exercise	js-u07-l4-e3	ChoiceExercise
+exercise	js-u07-l4-e4	ChoiceExercise
+exercise	js-u07-l4-e5	TypeExercise
+exercise	js-u07-l4-e6	TrueFalseExercise
+exercise	js-u07-l4-e7	CodeExercise
+lesson	js-u07-cp
+lesson	js-u08-l1
+exercise	js-u08-l1-e1	ChoiceExercise
+exercise	js-u08-l1-e2	ChoiceExercise
+exercise	js-u08-l1-e3	TypeExercise
+exercise	js-u08-l1-e4	ChoiceExercise
+exercise	js-u08-l1-e5	ChoiceExercise
+exercise	js-u08-l1-e6	FillBlankExercise
+exercise	js-u08-l1-e7	TrueFalseExercise
+exercise	js-u08-l1-e8	CodeExercise
+lesson	js-u08-l2
+exercise	js-u08-l2-e1	ChoiceExercise
+exercise	js-u08-l2-e2	ChoiceExercise
+exercise	js-u08-l2-e3	TypeExercise
+exercise	js-u08-l2-e4	ChoiceExercise
+exercise	js-u08-l2-e5	FillBlankExercise
+exercise	js-u08-l2-e6	ChoiceExercise
+exercise	js-u08-l2-e7	TrueFalseExercise
+exercise	js-u08-l2-e8	CodeExercise
+exercise	js-u08-l2-e9	CodeExercise
+lesson	js-u08-l3
+exercise	js-u08-l3-e1	ChoiceExercise
+exercise	js-u08-l3-e2	ChoiceExercise
+exercise	js-u08-l3-e3	ChoiceExercise
+exercise	js-u08-l3-e4	TypeExercise
+exercise	js-u08-l3-e5	FillBlankExercise
+exercise	js-u08-l3-e6	TrueFalseExercise
+exercise	js-u08-l3-e7	CodeExercise
+lesson	js-u08-l4
+exercise	js-u08-l4-e1	ChoiceExercise
+exercise	js-u08-l4-e2	ChoiceExercise
+exercise	js-u08-l4-e3	TypeExercise
+exercise	js-u08-l4-e4	ChoiceExercise
+exercise	js-u08-l4-e5	ChoiceExercise
+exercise	js-u08-l4-e6	FillBlankExercise
+exercise	js-u08-l4-e7	TrueFalseExercise
+exercise	js-u08-l4-e8	CodeExercise
+lesson	js-u08-cp
+lesson	js-u09-l1
+exercise	js-u09-l1-e1	ChoiceExercise
+exercise	js-u09-l1-e2	ChoiceExercise
+exercise	js-u09-l1-e3	TypeExercise
+exercise	js-u09-l1-e4	ChoiceExercise
+exercise	js-u09-l1-e5	FillBlankExercise
+exercise	js-u09-l1-e6	ChoiceExercise
+exercise	js-u09-l1-e7	TrueFalseExercise
+exercise	js-u09-l1-e8	CodeExercise
+lesson	js-u09-l2
+exercise	js-u09-l2-e1	ChoiceExercise
+exercise	js-u09-l2-e2	ChoiceExercise
+exercise	js-u09-l2-e3	TypeExercise
+exercise	js-u09-l2-e4	ChoiceExercise
+exercise	js-u09-l2-e5	MatchExercise
+exercise	js-u09-l2-e6	FillBlankExercise
+exercise	js-u09-l2-e7	TrueFalseExercise
+exercise	js-u09-l2-e8	CodeExercise
+lesson	js-u09-l3
+exercise	js-u09-l3-e1	ChoiceExercise
+exercise	js-u09-l3-e2	ChoiceExercise
+exercise	js-u09-l3-e3	TypeExercise
+exercise	js-u09-l3-e4	ChoiceExercise
+exercise	js-u09-l3-e5	FillBlankExercise
+exercise	js-u09-l3-e6	TrueFalseExercise
+exercise	js-u09-l3-e7	CodeExercise
+lesson	js-u09-l4
+exercise	js-u09-l4-e1	ChoiceExercise
+exercise	js-u09-l4-e2	ChoiceExercise
+exercise	js-u09-l4-e3	TypeExercise
+exercise	js-u09-l4-e4	ChoiceExercise
+exercise	js-u09-l4-e5	ChoiceExercise
+exercise	js-u09-l4-e6	FillBlankExercise
+exercise	js-u09-l4-e7	TrueFalseExercise
+exercise	js-u09-l4-e8	CodeExercise
+lesson	js-u09-l5
+exercise	js-u09-l5-e1	CodeExercise
+exercise	js-u09-l5-e2	CodeExercise
+exercise	js-u09-l5-e3	CodeExercise
+exercise	js-u09-l5-e4	ChoiceExercise
+lesson	js-u09-cp
+lesson	js-u10-l1
+exercise	js-u10-l1-e1	ChoiceExercise
+exercise	js-u10-l1-e2	ChoiceExercise
+exercise	js-u10-l1-e3	ChoiceExercise
+exercise	js-u10-l1-e4	TypeExercise
+exercise	js-u10-l1-e5	FillBlankExercise
+exercise	js-u10-l1-e6	TrueFalseExercise
+exercise	js-u10-l1-e7	ChoiceExercise
+exercise	js-u10-l1-e8	CodeExercise
+lesson	js-u10-l2
+exercise	js-u10-l2-e1	ChoiceExercise
+exercise	js-u10-l2-e2	ChoiceExercise
+exercise	js-u10-l2-e3	TypeExercise
+exercise	js-u10-l2-e4	ChoiceExercise
+exercise	js-u10-l2-e5	FillBlankExercise
+exercise	js-u10-l2-e6	TrueFalseExercise
+exercise	js-u10-l2-e7	CodeExercise
+lesson	js-u10-l3
+exercise	js-u10-l3-e1	ChoiceExercise
+exercise	js-u10-l3-e2	ChoiceExercise
+exercise	js-u10-l3-e3	ChoiceExercise
+exercise	js-u10-l3-e4	TypeExercise
+exercise	js-u10-l3-e5	FillBlankExercise
+exercise	js-u10-l3-e6	TrueFalseExercise
+exercise	js-u10-l3-e7	CodeExercise
+lesson	js-u10-l4
+exercise	js-u10-l4-e1	ChoiceExercise
+exercise	js-u10-l4-e2	ChoiceExercise
+exercise	js-u10-l4-e3	ChoiceExercise
+exercise	js-u10-l4-e4	TypeExercise
+exercise	js-u10-l4-e5	FillBlankExercise
+exercise	js-u10-l4-e6	TrueFalseExercise
+exercise	js-u10-l4-e7	CodeExercise
+lesson	js-u10-cp
+lesson	js-u11-l1
+exercise	js-u11-l1-e1	ChoiceExercise
+exercise	js-u11-l1-e2	ChoiceExercise
+exercise	js-u11-l1-e3	TypeExercise
+exercise	js-u11-l1-e4	ChoiceExercise
+exercise	js-u11-l1-e5	FillBlankExercise
+exercise	js-u11-l1-e6	TrueFalseExercise
+exercise	js-u11-l1-e7	CodeExercise
+lesson	js-u11-l2
+exercise	js-u11-l2-e1	ChoiceExercise
+exercise	js-u11-l2-e2	ChoiceExercise
+exercise	js-u11-l2-e3	ChoiceExercise
+exercise	js-u11-l2-e4	TypeExercise
+exercise	js-u11-l2-e5	FillBlankExercise
+exercise	js-u11-l2-e6	TrueFalseExercise
+exercise	js-u11-l2-e7	CodeExercise
+lesson	js-u11-l3
+exercise	js-u11-l3-e1	ChoiceExercise
+exercise	js-u11-l3-e2	ChoiceExercise
+exercise	js-u11-l3-e3	ChoiceExercise
+exercise	js-u11-l3-e4	TypeExercise
+exercise	js-u11-l3-e5	FillBlankExercise
+exercise	js-u11-l3-e6	TrueFalseExercise
+exercise	js-u11-l3-e7	CodeExercise
+lesson	js-u11-l4
+exercise	js-u11-l4-e1	ChoiceExercise
+exercise	js-u11-l4-e2	ChoiceExercise
+exercise	js-u11-l4-e3	MatchExercise
+exercise	js-u11-l4-e4	ChoiceExercise
+exercise	js-u11-l4-e5	TypeExercise
+exercise	js-u11-l4-e6	FillBlankExercise
+exercise	js-u11-l4-e7	TrueFalseExercise
+exercise	js-u11-l4-e8	CodeExercise
+lesson	js-u11-cp
+lesson	js-u12-l1
+exercise	js-u12-l1-e1	ChoiceExercise
+exercise	js-u12-l1-e2	ChoiceExercise
+exercise	js-u12-l1-e3	TypeExercise
+exercise	js-u12-l1-e4	ChoiceExercise
+exercise	js-u12-l1-e5	FillBlankExercise
+exercise	js-u12-l1-e6	TrueFalseExercise
+exercise	js-u12-l1-e7	CodeExercise
+lesson	js-u12-l2
+exercise	js-u12-l2-e1	ChoiceExercise
+exercise	js-u12-l2-e2	ChoiceExercise
+exercise	js-u12-l2-e3	TypeExercise
+exercise	js-u12-l2-e4	ChoiceExercise
+exercise	js-u12-l2-e5	FillBlankExercise
+exercise	js-u12-l2-e6	TrueFalseExercise
+exercise	js-u12-l2-e7	CodeExercise
+lesson	js-u12-l3
+exercise	js-u12-l3-e1	ChoiceExercise
+exercise	js-u12-l3-e2	ChoiceExercise
+exercise	js-u12-l3-e3	TypeExercise
+exercise	js-u12-l3-e4	ChoiceExercise
+exercise	js-u12-l3-e5	FillBlankExercise
+exercise	js-u12-l3-e6	ChoiceExercise
+exercise	js-u12-l3-e7	TrueFalseExercise
+exercise	js-u12-l3-e8	CodeExercise
+lesson	js-u12-l4
+exercise	js-u12-l4-e1	ChoiceExercise
+exercise	js-u12-l4-e2	ChoiceExercise
+exercise	js-u12-l4-e3	TypeExercise
+exercise	js-u12-l4-e4	ChoiceExercise
+exercise	js-u12-l4-e5	FillBlankExercise
+exercise	js-u12-l4-e6	TrueFalseExercise
+exercise	js-u12-l4-e7	CodeExercise
+lesson	js-u12-cp
+lesson	js-u13-l1
+exercise	js-u13-l1-e1	ChoiceExercise
+exercise	js-u13-l1-e2	ChoiceExercise
+exercise	js-u13-l1-e3	TypeExercise
+exercise	js-u13-l1-e4	ChoiceExercise
+exercise	js-u13-l1-e5	MatchExercise
+exercise	js-u13-l1-e6	FillBlankExercise
+exercise	js-u13-l1-e7	TrueFalseExercise
+exercise	js-u13-l1-e8	CodeExercise
+lesson	js-u13-l2
+exercise	js-u13-l2-e1	ChoiceExercise
+exercise	js-u13-l2-e2	ChoiceExercise
+exercise	js-u13-l2-e3	TypeExercise
+exercise	js-u13-l2-e4	ChoiceExercise
+exercise	js-u13-l2-e5	ChoiceExercise
+exercise	js-u13-l2-e6	FillBlankExercise
+exercise	js-u13-l2-e7	TrueFalseExercise
+exercise	js-u13-l2-e8	CodeExercise
+lesson	js-u13-l3
+exercise	js-u13-l3-e1	ChoiceExercise
+exercise	js-u13-l3-e2	ChoiceExercise
+exercise	js-u13-l3-e3	TypeExercise
+exercise	js-u13-l3-e4	ChoiceExercise
+exercise	js-u13-l3-e5	ChoiceExercise
+exercise	js-u13-l3-e6	FillBlankExercise
+exercise	js-u13-l3-e7	TrueFalseExercise
+exercise	js-u13-l3-e8	CodeExercise
+lesson	js-u13-l4
+exercise	js-u13-l4-e1	ChoiceExercise
+exercise	js-u13-l4-e2	ChoiceExercise
+exercise	js-u13-l4-e3	TypeExercise
+exercise	js-u13-l4-e4	ChoiceExercise
+exercise	js-u13-l4-e5	ChoiceExercise
+exercise	js-u13-l4-e6	FillBlankExercise
+exercise	js-u13-l4-e7	TrueFalseExercise
+exercise	js-u13-l4-e8	CodeExercise
+lesson	js-u13-cp
+lesson	js-u14-l1
+exercise	js-u14-l1-e1	CodeExercise
+exercise	js-u14-l1-e2	CodeExercise
+exercise	js-u14-l1-e3	CodeExercise
+exercise	js-u14-l1-e4	ChoiceExercise
+lesson	js-u14-l2
+exercise	js-u14-l2-e1	CodeExercise
+exercise	js-u14-l2-e2	CodeExercise
+exercise	js-u14-l2-e3	CodeExercise
+exercise	js-u14-l2-e4	ChoiceExercise
+lesson	js-u14-l3
+exercise	js-u14-l3-e1	CodeExercise
+exercise	js-u14-l3-e2	CodeExercise
+exercise	js-u14-l3-e3	CodeExercise
+exercise	js-u14-l3-e4	CodeExercise
+exercise	js-u14-l3-e5	ChoiceExercise
+lesson	js-u14-cp

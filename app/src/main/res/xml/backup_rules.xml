@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Android 6–11: Nur Fortschritt/Einstellungen und eigene Spielplatz-Dateien sichern.
+     Die entpackte Python-Laufzeit (>25 MB) würde sonst das Sicherungs-Limit sprengen. -->
+<full-backup-content>
+    <include domain="file" path="datastore/" />
+    <include domain="file" path="python_files/" />
+</full-backup-content>

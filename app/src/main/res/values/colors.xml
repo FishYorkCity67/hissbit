@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_green">#FF1D7357</color>
+    <color name="window_bg">#FFFBFAF7</color>
+    <color name="widget_card">#FFFFFFFF</color>
+    <color name="widget_card_border">#FFE9E4DC</color>
+    <color name="widget_day_empty">#FFE9E4DC</color>
+    <color name="widget_text">#FF1D1B19</color>
+    <color name="widget_text_muted">#FF6E6860</color>
+</resources>

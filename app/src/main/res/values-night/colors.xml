@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#FF131211</color>
+    <color name="widget_card">#FF1B1A18</color>
+    <color name="widget_card_border">#FF34312D</color>
+    <color name="widget_day_empty">#FF34312D</color>
+    <color name="widget_text">#FFF2EEE8</color>
+    <color name="widget_text_muted">#FFA59F96</color>
+</resources>
